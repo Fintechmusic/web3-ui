@@ -1,5 +1,11 @@
 # @web3-ui/components
 
+## 0.13.0-next.1
+
+### Patch Changes
+
+- [#344](https://github.com/Developer-DAO/web3-ui/pull/344) [`4e04357`](https://github.com/Developer-DAO/web3-ui/commit/4e043575dc05f1f9433052e876748ed5b9e2b432) Thanks [@Dhaiwat10](https://github.com/Dhaiwat10)! - Fixed a crash happening due to errors not being stringified before being rendered
+
 ## 0.13.0-next.0
 
 ### Minor Changes
